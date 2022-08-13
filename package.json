@@ -1,0 +1,23 @@
+{
+  "name": "fetch-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leon-99/fetch-news.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leon-99/fetch-news/issues"
+  },
+  "homepage": "https://github.com/leon-99/fetch-news#readme",
+  "dependencies": {
+    "news-api": "0.0.1",
+    "prompt": "^1.3.0"
+  }
+}
